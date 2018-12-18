@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/_Demo/_360 Video AR Portal (ARCore) 1 Video Only.unity
+  isLoaded: 1
+  isActive: 1
